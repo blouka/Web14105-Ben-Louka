@@ -8,7 +8,7 @@
 
 **Course:** BA (Hons) Web Media, Level 1
 
-**Unit Code:** WEB14105
+**Unit Code:** WEB14105 Web Development Workshop
 
 
 
