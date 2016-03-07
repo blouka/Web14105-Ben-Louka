@@ -18,7 +18,7 @@
 
 1. [Video presentation]
 2. [Conent Strategy](https://docs.google.com/document/d/1arWWtvSZjCvUAcLgYxU52XFysiPzRclBL-Dg-DPAVEc/edit?usp=sharing)
-3. [Research]
+3. [Research](https://docs.google.com/document/d/1o8hqj_Rui62LTRQzF8YShy9pE_swEznN1GHmFUDBcVQ/edit?usp=sharing)
 
 
 
