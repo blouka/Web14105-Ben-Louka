@@ -26,5 +26,5 @@
 
 ##Tuition fees
 
-[Click here]() to see my project so far
+[Click here](http://blouka.github.io/Web14105-Ben-Louka-Formative-.) to see my project so far
 
